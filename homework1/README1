@@ -1,0 +1,34 @@
+I am going to pick Perl for homework - 1
+
+This first simple function demonstrates Perl hash of arrays.
+
+invert_hash function creates inverted hash, with keys from input hash values and values from input hash keys.
+
+I have used key & values from this page http://en.wikipedia.org/wiki/Secondary_color to show this example.
+
+function1.pl
+
+The output would be
+
+green = yellow cyan
+blue = cyan magenta
+red = yellow magenta
+
+
+
+------------------------------------------------------------------------------------------------------------
+
+This second simple function demonstrates tr (Perl transliteration operator)
+
+vowel_upper function converts lowercase vowel characters to uppercase vowel characters.
+
+I have used myrrh (word without vowels), eau (word consisting of only vowels) to show this example.
+
+function2.pl
+
+
+The output would be
+
+EAU dE cOlOgnE myrrh
+
+
